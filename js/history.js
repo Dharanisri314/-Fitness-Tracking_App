@@ -109,10 +109,6 @@ const HistoryPage = (() => {
     // Create goal line dataset
     const goalData = Array(labels.length).fill(stepGoal);
     
-
-
-
-    
     // Create chart data
     const data = {
       labels: labels,
@@ -266,9 +262,6 @@ const HistoryPage = (() => {
     init
   };
 })();
-
-
-
 
   // Map initialization
   var map = L.map('map').setView([11.0168, 76.9558], 13); // Coimbatore location
