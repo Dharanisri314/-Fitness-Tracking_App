@@ -1,4 +1,4 @@
-# 🏃‍♂️ FitTrack - Activity History Page
+![Screenshot 2025-05-20 172034](https://github.com/user-attachments/assets/b67548b7-6089-475b-830a-ae221c3bd5b4)# 🏃‍♂️ FitTrack - Activity History Page
 
 A simple fitness tracker web app that shows your weekly/monthly steps and calories, along with charts, tables, and a map.
 
@@ -27,7 +27,11 @@ A simple fitness tracker web app that shows your weekly/monthly steps and calori
 - **MockDataService** (for sample activity data)
 ---
 
-## 🖼️ Screenshot
+## Project Screenshot
+![Screenshot 2025-05-20 172034](https://github.com/user-attachments/assets/8c3fc763-e4c1-4439-b8ce-d2df64154c1b)
+![Screenshot 2025-05-20 172119](https://github.com/user-attachments/assets/bc660dd2-d532-40cb-be1e-798fcd6c86b1)
+![Screenshot 2025-05-20 172141](https://github.com/user-attachments/assets/547aa467-b854-41a7-9654-8119ddd0e0e2)
+![Screenshot 2025-05-20 172158](https://github.com/user-attachments/assets/67fd2502-b3e5-4cc4-af9c-847508a382dc)
 
 ---
 
